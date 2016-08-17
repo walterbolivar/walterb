@@ -1,0 +1,18 @@
+ 222.cpp : Defines the entry point for the console application.
+//nombre:walter bolivar
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+void main() //cuerpo principal
+{ 
+	cout<< "hola mundo"<<endl;
+	cout<< " oriente petrolero";
+	getch();
+
+}
+
